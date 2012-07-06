@@ -1,0 +1,10 @@
+build/
+*~
+*.ppm
+*.swp
+.clang_complete
+.vimrc
+cc_args.py
+make
+tags
+
